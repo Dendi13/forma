@@ -32,7 +32,7 @@ if (!empty($_POST)) {
         Имя пользователя:  <input type="text" name = "login" id = "login">
     </p>
     <p>
-        Пароль:  <input type="text" name = "password" id = "password">
+        Пароль:  <input type="text" name = "pass" id = "password">
     </p>
     <p>
         <button type = "submit">Войти</button>
